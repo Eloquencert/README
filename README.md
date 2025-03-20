@@ -33,7 +33,7 @@ const elo = {
   pronouns: "He" | "Him",
   code: ["PHP", "Javascript", "C++", "C#"],
   tools: ["Laravel", "SQL", "Bootstrap", "HTML", "CSS", "GIT, "PhpMyAdmin", "OpenServer"],
-  askMeAbout: ["web dev", "app dev", "UI/UX"],
+  askMeAbout: ["web dev", "UI/UX"],
   technologies: {
       frontEnd: {
         js: ["Next.js"],
