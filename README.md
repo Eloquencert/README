@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danyil
 =========================================================================================================================================
 
-PHP Laravel developer
+Web developer
 ---------------------
 
 Hi. I am a programmer with six months of experience in web development. My journey in web development started with mastering HTML and CSS, which allowed me to create basic structures and styles for websites. Gradually, I moved on to JavaScript, learning its basics and applying my knowledge to develop interactive elements. After that, I immersed myself in algorithms and data structures to better understand how to work efficiently with large amounts of information. My work also involves using SQL to work with databases, in particular, I have experience with administration using PhpMyAdmin. Currently, my main focus is PHP development, where I actively use the Laravel framework to create scalable and reliable web applications. I am constantly improving my skills, following new technologies and striving to achieve high results in every project I join.
